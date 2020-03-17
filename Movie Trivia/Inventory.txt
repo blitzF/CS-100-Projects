@@ -1,0 +1,24 @@
+Product 	Price		Amount
+Masala Lays	30		10
+Salted Lays	30		10
+Cream Lays	30		10
+Cheese Lays	30		10
+Cheetos		30		10
+Cheetos Cheese	30		10
+Milo		40		10
+Nestle Mango	40		10
+Nestle Apple	40		10
+Nestle Peach	40		10
+Nestle Guava	40		10
+Nestle Kinnow	40		10
+Nestle Grape	40		10
+Pepsi 300ml	35		10
+7up 300ml	35		10
+Miranda 300ml	35		10
+Dew 300ml	35		10
+Nestle Water	30		10
+Aquafina	30		10
+Dairymilk	30		10
+Kitkat		80		10
+Extra Blue	80		10
+Extra Green	80		10
